@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/Application.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/Application.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/Application.cpp",
+  "output": "CMakeFiles/connect4.dir/Application.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_demo.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_demo.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_draw.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_draw.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_tables.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_tables.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_widgets.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_impl_opengl3.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/Bit.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/Bit.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/Bit.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/Bit.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/BitHolder.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/BitHolder.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/BitHolder.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/BitHolder.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/Game.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/Game.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/Game.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/Game.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/Sprite.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/Sprite.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/Sprite.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/Sprite.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/Square.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/Square.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/Square.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/Square.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/classes/Connect4.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/classes/Connect4.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/classes/Connect4.cpp",
+  "output": "CMakeFiles/connect4.dir/classes/Connect4.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/main_macos.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/main_macos.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/main_macos.cpp",
+  "output": "CMakeFiles/connect4.dir/main_macos.cpp.o"
+},
+{
+  "directory": "/Users/jaydenchung/Downloads/ticktactoe 2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -mmacosx-version-min=14.1 -o CMakeFiles/connect4.dir/imgui/imgui_impl_glfw.cpp.o -c \"/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_impl_glfw.cpp\"",
+  "file": "/Users/jaydenchung/Downloads/ticktactoe 2/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/connect4.dir/imgui/imgui_impl_glfw.cpp.o"
+}
+]
